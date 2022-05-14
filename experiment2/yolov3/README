@@ -1,1 +1,3 @@
-
+train model:python train.py
+test model: python test.py
+visualiztion: utils/visualize.py
