@@ -1,1 +1,4 @@
-
+baseline: python run.py
+mixup: python run_mixup.py
+cutout:python run_cutout.py
+cutmix:python run_cutmix.py
